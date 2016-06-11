@@ -2,15 +2,15 @@
   {
     'label': 'Packages'
     'submenu': [
-      'label': 'Atom Storybook'
+      'label': 'Atom Skypager'
       'submenu': [
         {
           'label': 'Toggle window'
-          'command': 'atom-storybook:toggle'
+          'command': 'atom-skypager:toggle'
         },
         {
           'label': 'Toggle size'
-          'command': 'atom-storybook:enlarge'
+          'command': 'atom-skypager:enlarge'
         }
       ]
     ]

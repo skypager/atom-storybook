@@ -1,10 +1,10 @@
 {View} = require '../node_modules/atom-space-pen-views'
 
 module.exports =
-class AtomStorybookView extends View
+class AtomSkypagerView extends View
   @content: ->
     @div class:'styleguide padded pane-item native-key-bindings' , =>
-      @div class: 'atom-storybook'
+      @div class: 'atom-skypager'
 
   # Returns an object that can be retrieved when package is activated
   serialize: ->

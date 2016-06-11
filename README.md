@@ -1,12 +1,8 @@
-# atom-storybook
+# atom-skypager
 
-Atom plugin for @kadira/storybook
+Atom plugin for skypager
 
-Read more about storybook here: https://github.com/kadirahq/react-storybook
+Read more about skypager : https://github.com/skypager/skypager
 
-In order to run show the storybook inside atom:
-- launch storybook as usual, then go to Packages > Atom Storybook > Toggle window
-
-![atom-storybook demo](https://raw.githubusercontent.com/vadirn/atom-storybook/master/demo.gif)
-
-Based on https://github.com/simurai/youtube-pane
+In order to run show skypager inside atom:
+- launch skypager as usual, then go to Packages > Atom Skypager > Toggle window
